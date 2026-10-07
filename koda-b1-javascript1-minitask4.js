@@ -25,7 +25,7 @@ switch (mode) {
     let tambah = 1;
     for (let b = 1; b <= 10; b++) {
       tambah += 1;
-      console.log(tambah);
+      console.log(`1 + ${b} = ${tambah}`);
     }
     break;
   default:
