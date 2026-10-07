@@ -15,4 +15,6 @@ tess[1] = keliling
 
 console.log(typeof luas)
 console.log(typeof keliling)
+console.log(typeof r === "Number")
+
 console.log(Array.isArray(tess))
