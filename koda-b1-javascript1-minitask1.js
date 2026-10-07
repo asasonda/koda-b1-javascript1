@@ -17,4 +17,6 @@ console.log(typeof luas)
 console.log(typeof keliling)
 console.log(typeof r === "Number")
 
+console.log(tess instanceof Date)
+
 console.log(Array.isArray(tess))
