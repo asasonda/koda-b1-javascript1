@@ -1,18 +1,15 @@
-const s = 10;
+const s = 'woii';
 const isLuas = false;
 let luas, keliling;
 
 if(s !== NaN){
-    if (isLuas) {
-      luas = s * s;
-      console.log(luas)
-    }
-    else{
-        keliling = 4 * s
-        console.log(keliling)
-    }
-}
-else{
-    console.log(`Harus Angka`)
+    luas = s * s;
+    keliling = 4 * s
 }
 
+if (isLuas) {
+  console.log(luas)
+}
+else{
+    console.log(keliling)
+}
