@@ -8,3 +8,11 @@ keliling = 2 * phi * r
 
 console.log(luas)
 console.log(keliling)
+
+let tess = []
+tess[0] = luas
+tess[1] = keliling
+
+console.log(typeof luas)
+console.log(typeof keliling)
+console.log(Array.isArray(tess))
