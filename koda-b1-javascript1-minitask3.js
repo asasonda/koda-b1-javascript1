@@ -1,4 +1,4 @@
-const s = 'woii';
+const s = 10;
 const isLuas = false;
 let luas, keliling;
 
